@@ -1,0 +1,1 @@
+Please note that in order to use this, you will need to download a cats and dogs dataset from either Kaggle or some other resource. You will also need to update the directory location in the Python script. Otherwise, it should be good to go!
